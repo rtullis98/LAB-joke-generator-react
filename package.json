@@ -1,8 +1,8 @@
 {
-  "name": "next-firebase-starter",
+  "name": "rileys-terrible-jokes",
   "private": true,
   "version": "1.0.0",
-  "author": "Trinity Christiana",
+  "author": "Riley Tullis",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
